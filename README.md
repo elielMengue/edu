@@ -3,39 +3,39 @@ EduImpact est une plateforme éducative tout-en-un visant à démocratiser l'acc
 
 ---
 
-## ✨ Objectif du projet
+##  Objectif du projet
 
 Donner aux jeunes, où qu’ils soient, les moyens de se former aux métiers du numérique, valider leurs compétences et entrer en contact avec des employeurs ou partenaires de projets à impact.
 
 ---
 
-## 🧑‍💼 Cas d’utilisation
+##  Cas d’utilisation
 
-- 👩‍🎓 **Apprenant**
+-  **Apprenant**
   - S'inscrire et suivre des cours en ligne (vidéos, textes)
   - Réaliser des projets pratiques
   - Obtenir un certificat numérique
   - Suivre sa progression par module
   - Accéder à des opportunités de stage ou d’emploi
 
-- 👨‍🏫 **Formateur**
+-  **Formateur**
   - Créer des cours et modules pédagogiques
   - Ajouter des vidéos, textes, quizz et ressources
   - Suivre la progression des étudiants
 
-- 🧑‍💼 **Admin**
+-  **Admin**
   - Gérer les utilisateurs, cours et statistiques
   - Modérer les contenus
   - Attribuer les rôles
 
-- 🏢 **Partenaire / Recruteur**
+-  **Partenaire / Recruteur**
   - Publier des offres d'emploi ou stage
   - Rechercher des profils certifiés
   - Contacter directement les talents
 
 ---
 
-## 🧩 Fonctionnalités
+##  Fonctionnalités
 
 - ✅ `Enable`: Authentification sécurisée (Supabase Auth)
 - ✅ `Enable`: Rôles et permissions (Admin, Étudiant, Formateur, Partenaire)
@@ -51,7 +51,7 @@ Donner aux jeunes, où qu’ils soient, les moyens de se former aux métiers du 
 
 ---
 
-## 🧱 Stack technique
+##  Stack technique
 
 | Côté | Technologie |
 |------|-------------|
@@ -64,7 +64,7 @@ Donner aux jeunes, où qu’ils soient, les moyens de se former aux métiers du 
 
 ---
 
-## 🧭 Architecture
+##  Architecture
 
 ```mermaid
 flowchart TD
