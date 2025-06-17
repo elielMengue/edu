@@ -1,5 +1,5 @@
 # edu
-EduImpact est une plateforme éducative tout-en-un visant à démocratiser l'accès aux compétences numériques en Afrique. Elle permet aux jeunes d’apprendre, de se certifier et d’accéder à des opportunités professionnelles — le tout en ligne.
+EduImpact est une plateforme éducative tout-en-un visant à démocratiser l'accès aux compétences numériques en Afrique. Elle permet aux jeunes d’apprendre, de se certifier et d’accéder à des opportunités professionnelles le tout en ligne.
 
 ---
 
@@ -64,7 +64,7 @@ Donner aux jeunes, où qu’ils soient, les moyens de se former aux métiers du 
 
 ---
 
-## 🧭 Architecture (Diagramme de flux simplifié)
+## 🧭 Architecture
 
 ```mermaid
 flowchart TD
